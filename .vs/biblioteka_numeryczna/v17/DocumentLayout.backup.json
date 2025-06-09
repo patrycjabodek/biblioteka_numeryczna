@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|solutionrelative:biblioteka_numeryczna\\test_metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_interpolacja_newton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|solutionrelative:biblioteka_numeryczna\\test_interpolacja_newton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_interpolacja_lagrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|solutionrelative:biblioteka_numeryczna\\test_interpolacja_lagrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|solutionrelative:biblioteka_numeryczna\\test_gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|solutionrelative:biblioteka_numeryczna\\test_calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\tests\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CCA9D1-18EB-419D-940F-32963DF2398F}|tests\\tests.vcxproj|solutionrelative:tests\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:biblioteka_numeryczna\\przyklad_calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:biblioteka_numeryczna\\przyklad_gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_interpolacja_lagrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:biblioteka_numeryczna\\przyklad_interpolacja_lagrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_interpolacja_newton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:biblioteka_numeryczna\\przyklad_interpolacja_newton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:biblioteka_numeryczna\\przyklad_metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_lagrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\interpolacja_lagrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\gauss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\gauss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\examples\\examples.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:examples\\examples.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\biblioteka_numeryczna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\biblioteka_numeryczna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_newton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\interpolacja_newton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_newton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\interpolacja_newton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_lagrange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\interpolacja_lagrange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\metoda_lu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\metoda_lu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\calkowanie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\calkowanie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_calkowanie.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_calkowanie.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\test_calkowanie.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_calkowanie.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\test_calkowanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T15:21:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_interpolacja_lagrange.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_interpolacja_lagrange.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\test_interpolacja_lagrange.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_interpolacja_lagrange.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\test_interpolacja_lagrange.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T15:21:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_metoda_lu.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_metoda_lu.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\test_metoda_lu.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_metoda_lu.cpp*",
+              "RelativeToolTip": "biblioteka_numeryczna\\test_metoda_lu.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwC8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T15:21:43.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_interpolacja_newton.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_interpolacja_newton.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\test_interpolacja_newton.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_interpolacja_newton.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\test_interpolacja_newton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T15:21:40.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_gauss.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_gauss.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\test_gauss.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\test_gauss.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\test_gauss.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T15:21:30.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tests.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\tests\\tests.cpp",
+              "RelativeDocumentMoniker": "tests\\tests.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\tests\\tests.cpp",
+              "RelativeToolTip": "tests\\tests.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T15:18:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "przyklad_calkowanie.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_calkowanie.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\przyklad_calkowanie.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_calkowanie.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\przyklad_calkowanie.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T14:21:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "przyklad_metoda_lu.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T14:26:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "przyklad_interpolacja_lagrange.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_interpolacja_lagrange.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\przyklad_interpolacja_lagrange.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_interpolacja_lagrange.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\przyklad_interpolacja_lagrange.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T14:26:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "przyklad_interpolacja_newton.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_interpolacja_newton.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\przyklad_interpolacja_newton.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_interpolacja_newton.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\przyklad_interpolacja_newton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T14:26:46.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "przyklad_gauss.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_gauss.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\przyklad_gauss.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\przyklad_gauss.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\przyklad_gauss.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T14:26:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "interpolacja_lagrange.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_lagrange.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\interpolacja_lagrange.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_lagrange.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\interpolacja_lagrange.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T11:33:15.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "calkowanie.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\calkowanie.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\calkowanie.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\calkowanie.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\calkowanie.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T13:23:18.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gauss.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\gauss.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\gauss.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\gauss.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\gauss.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T11:23:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gauss.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\gauss.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\gauss.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\gauss.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\gauss.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T11:24:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "examples.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\examples\\examples.cpp",
+              "RelativeDocumentMoniker": "examples\\examples.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\examples\\examples.cpp",
+              "RelativeToolTip": "examples\\examples.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T14:05:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "metoda_lu.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\metoda_lu.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\metoda_lu.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\metoda_lu.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\metoda_lu.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T11:53:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "biblioteka_numeryczna.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\biblioteka_numeryczna.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\biblioteka_numeryczna.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\biblioteka_numeryczna.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\biblioteka_numeryczna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T14:41:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "interpolacja_newton.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_newton.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\interpolacja_newton.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_newton.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\interpolacja_newton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T13:57:18.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "interpolacja_lagrange.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_lagrange.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\interpolacja_lagrange.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_lagrange.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\interpolacja_lagrange.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T11:32:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "metoda_lu.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\metoda_lu.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\metoda_lu.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\metoda_lu.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\metoda_lu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T11:52:56.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "interpolacja_newton.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_newton.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\interpolacja_newton.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\interpolacja_newton.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\interpolacja_newton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T11:46:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\pch.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\pch.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\pch.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T11:18:27.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "calkowanie.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\calkowanie.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\calkowanie.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna_testy\\biblioteka_numeryczna\\calkowanie.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\calkowanie.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T13:23:00.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
