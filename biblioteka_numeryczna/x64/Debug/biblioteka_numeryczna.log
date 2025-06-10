@@ -1,1 +1,27 @@
-﻿  biblioteka_numeryczna.vcxproj -> C:\Users\patry\Documents\projekty\biblioteka_numeryczna_testy\x64\Debug\biblioteka_numeryczna.lib
+﻿  aproksymacja.cpp
+  calkowanie.cpp
+C:\Users\patry\Documents\projekty\biblioteka_numeryczna\biblioteka_numeryczna\calkowanie.cpp(9,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/calkowanie.cpp”)
+  
+  gauss.cpp
+C:\Users\patry\Documents\projekty\biblioteka_numeryczna\biblioteka_numeryczna\gauss.cpp(11,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/gauss.cpp”)
+  
+  interpolacja_lagrange.cpp
+C:\Users\patry\Documents\projekty\biblioteka_numeryczna\biblioteka_numeryczna\interpolacja_lagrange.cpp(8,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/interpolacja_lagrange.cpp”)
+  
+  interpolacja_newton.cpp
+C:\Users\patry\Documents\projekty\biblioteka_numeryczna\biblioteka_numeryczna\interpolacja_newton.cpp(7,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/interpolacja_newton.cpp”)
+  
+  metoda_lu.cpp
+C:\Users\patry\Documents\projekty\biblioteka_numeryczna\biblioteka_numeryczna\metoda_lu.cpp(12,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/metoda_lu.cpp”)
+  
+  rownania_rozniczkowe.cpp
+C:\Users\patry\Documents\projekty\biblioteka_numeryczna\biblioteka_numeryczna\rownania_rozniczkowe.cpp(88,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/rownania_rozniczkowe.cpp”)
+  
+  Generowanie kodu...
+  biblioteka_numeryczna.vcxproj -> C:\Users\patry\Documents\projekty\biblioteka_numeryczna\x64\Debug\biblioteka_numeryczna.lib

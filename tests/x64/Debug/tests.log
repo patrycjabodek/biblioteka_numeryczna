@@ -1,4 +1,10 @@
-﻿  test_metoda_lu.cpp
-  tests.vcxproj -> C:\Users\patry\Documents\projekty\biblioteka_numeryczna_testy\x64\Debug\tests.exe
+﻿  test_calkowanie.cpp
+  test_gauss.cpp
+  test_interpolacja_lagrange.cpp
+  test_interpolacja_newton.cpp
+  test_metoda_lu.cpp
+  tests.cpp
+  Generowanie kodu...
+  tests.vcxproj -> C:\Users\patry\Documents\projekty\biblioteka_numeryczna\x64\Debug\tests.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

@@ -2,7 +2,7 @@
 #include "calkowanie.h"
 #include <cmath>
 #include <iostream>
-
+#include <stdexcept>
 
 double oblicz_schemat_hornera(const std::vector<double>& wspolczynniki, double x) {
     double wynik = 0;
@@ -13,6 +13,9 @@ double oblicz_schemat_hornera(const std::vector<double>& wspolczynniki, double x
 }
 
 double metoda_prostokatow(const std::vector<double>& wspolczynniki, double a, double b, int n) {
+    if (n <= 0) {
+        throw std::invalid_argument("Liczba podprzedzialow (n) musi byc dodatnia.");
+    }
     double h = (b - a) / n;
     double suma = 0.0;
     for (int i = 0; i < n; i++) {
@@ -23,6 +26,9 @@ double metoda_prostokatow(const std::vector<double>& wspolczynniki, double a, do
 }
 
 double metoda_trapezow(const std::vector<double>& wspolczynniki, double a, double b, int n) {
+    if (n <= 0) {
+        throw std::invalid_argument("Liczba podprzedzialow (n) musi byc dodatnia.");
+    }
     double h = (b - a) / n;
     double suma = 0.5 * (oblicz_schemat_hornera(wspolczynniki, a) + oblicz_schemat_hornera(wspolczynniki, b));
     for (int i = 1; i < n; i++) {
@@ -33,6 +39,9 @@ double metoda_trapezow(const std::vector<double>& wspolczynniki, double a, doubl
 }
 
 double metoda_simpsona(const std::vector<double>& wspolczynniki, double a, double b, int n) {
+    if (n <= 0) {
+        throw std::invalid_argument("Liczba podprzedzialow (n) musi byc dodatnia.");
+    }
     if (n % 2 != 0) n++;
     double h = (b - a) / n;
     double suma = oblicz_schemat_hornera(wspolczynniki, a) + oblicz_schemat_hornera(wspolczynniki, b);
@@ -83,6 +92,10 @@ double oblicz_blad(double obliczona, double dokladna) {
 }
 
 double gauss_legendre(std::function<double(double)> f, double a, double b, int l_wezlow, int l_podprzedzialow) {
+   
+    if (l_podprzedzialow <= 0) {
+        throw std::invalid_argument("Liczba podprzedzialow musi byc dodatnia.");
+    }
     double h = (b - a) / l_podprzedzialow;
     double result = 0.0;
 
@@ -101,8 +114,7 @@ double gauss_legendre(std::function<double(double)> f, double a, double b, int l
         w = { 0.347855, 0.652145, 0.652145, 0.347855 };
     }
     else {
-        std::cerr << "Liczba wêz³ów nie nale¿y do {2, 3, 4}\n";
-        return -1;
+        throw std::invalid_argument("Liczba wezlow (l_wezlow) musi nalezec do {2, 3, 4}.");
     }
 
     for (int k = 0; k < l_podprzedzialow; ++k) {

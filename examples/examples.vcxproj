@@ -134,6 +134,12 @@
     <ClCompile Include="..\biblioteka_numeryczna\przyklad_interpolacja_newton.cpp" />
     <ClCompile Include="..\biblioteka_numeryczna\przyklad_metoda_lu.cpp" />
     <ClCompile Include="examples.cpp" />
+    <ClCompile Include="przyklad_aproksymacja.cpp">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\;$(SolutionDir)biblioteka_numeryczna\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="przyklad_rownania_rozniczkowe.cpp">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\include\;$(SolutionDir)biblioteka_numeryczna\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\biblioteka_numeryczna\biblioteka_numeryczna.vcxproj">

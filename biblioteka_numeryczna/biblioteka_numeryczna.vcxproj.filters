@@ -31,6 +31,12 @@
     <ClCompile Include="calkowanie.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="aproksymacja.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="rownania_rozniczkowe.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gauss.h">
@@ -52,6 +58,12 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="interpolacja_newton.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="aproksymacja.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="rownania_rozniczkowe.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>

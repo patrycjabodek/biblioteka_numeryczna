@@ -25,5 +25,11 @@
     <ClCompile Include="..\biblioteka_numeryczna\przyklad_metoda_lu.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="przyklad_aproksymacja.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="przyklad_rownania_rozniczkowe.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
