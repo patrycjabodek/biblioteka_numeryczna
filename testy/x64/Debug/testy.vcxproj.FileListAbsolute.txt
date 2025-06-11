@@ -1,1 +1,2 @@
 C:\Users\patry\Documents\projekty\biblioteka_numeryczna\testy\x64\Debug\testy.vcxproj.Up2Date
+C:\Users\User\Desktop\Metody Numeryczne\biblioteka\biblioteka_numeryczna\testy\x64\Debug\testy.vcxproj.Up2Date

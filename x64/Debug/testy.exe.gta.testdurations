@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\User\Desktop\Metody Numeryczne\biblioteka\biblioteka_numeryczna\x64\Debug\testy.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="AproksymacjaTest.PoprawnieAproksymujeFunkcjeKwadratowa" Duration="1" />
+    <TestDuration Test="AproksymacjaTest.RzucaWyjatekDlaUjemnegoStopnia" Duration="1" />
+    <TestDuration Test="CalkowanieHornerTest.PustyWektorZwracaZero" Duration="1" />
+    <TestDuration Test="CalkowanieSimpsonaTest.PoprawnyWynikDlaFunkcjiLiniowej" Duration="1" />
+    <TestDuration Test="CalkowanieSimpsonaTest.RzucaWyjatekDlaNiepoprawnejLiczbyPrzedzialow" Duration="1" />
+    <TestDuration Test="CalkowanieGaussLegendreTest.PoprawnyWynikDlaFunkcji" Duration="1" />
+    <TestDuration Test="CalkowanieGaussLegendreTest.RzucaWyjatekDlaNieobslugiwanejLiczbyWezlow" Duration="1" />
+    <TestDuration Test="CalkowanieGaussLegendreTest.RzucaWyjatekDlaNiepoprawnejLiczbyPodprzedzialow" Duration="1" />
+    <TestDuration Test="EliminacjaGaussaTest.PoprawnyWynikDlaUkladu2x2" Duration="1" />
+    <TestDuration Test="EliminacjaGaussaTest.ZwracaFalseDlaUkladuOsobliwego" Duration="1" />
+    <TestDuration Test="InterpolacjaLagrangeTest.PrzypadekPoprawny_InterpolacjaKwadratowa" Duration="1" />
+    <TestDuration Test="InterpolacjaLagrangeTest.PrzypadekBledny_DzieleniePrzezZeroZwracaNieskonczonosc" Duration="1" />
+    <TestDuration Test="NewtonInterpolacjaTest.PoprawnyWynikDlaNowegoPunktu" Duration="1" />
+    <TestDuration Test="NewtonWspolczynnikiTest.BlednyPrzypadek_ZduplikowaneWezlyDajaNieskonczonosc" Duration="1" />
+    <TestDuration Test="MetodaLUTest.PoprawnyWynikRozwiazaniaUkladu" Duration="1" />
+    <TestDuration Test="MetodaLUTest.ZwracaFalseGdyDekompozycjaNiemozliwa" Duration="1" />
+    <TestDuration Test="RownaniaRozniczkoweTest.RK4_PoprawnieRozwiazujeProsteRownanie" Duration="1" />
+    <TestDuration Test="RownaniaRozniczkoweTest.RK4_RzucaWyjatekDlaNiepoprawnegoKrokuH" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

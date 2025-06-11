@@ -66,5 +66,8 @@
     <ClInclude Include="rownania_rozniczkowe.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="biblioteka_numeryczna.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

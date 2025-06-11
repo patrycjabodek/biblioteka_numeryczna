@@ -156,6 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aproksymacja.h" />
+    <ClInclude Include="biblioteka_numeryczna.h" />
     <ClInclude Include="calkowanie.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="gauss.h" />

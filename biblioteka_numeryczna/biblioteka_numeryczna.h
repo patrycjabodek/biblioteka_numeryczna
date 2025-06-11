@@ -1,0 +1,8 @@
+#include "aproksymacja.h"
+#include "calkowanie.h"
+#include "pch.h"
+#include "gauss.h"
+#include "interpolacja_lagrange.h"
+#include "interpolacja_newton.h"
+#include "metoda_lu.h"
+#include "rownania_rozniczkowe.h"

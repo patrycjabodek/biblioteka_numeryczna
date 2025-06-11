@@ -1,11 +1,1 @@
-﻿  test_aproksymacja.cpp
-  test_calkowanie.cpp
-  test_gauss.cpp
-  test_interpolacja_newton.cpp
-  test_metoda_lu.cpp
-  Generowanie kodu...
-  test_interpolacja_lagrange.cpp
-  test_rownania_rozniczkowe.cpp
-  testy.vcxproj -> C:\Users\patry\Documents\projekty\biblioteka_numeryczna\x64\Debug\testy.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+﻿  testy.vcxproj -> C:\Users\User\Desktop\Metody Numeryczne\biblioteka\biblioteka_numeryczna\x64\Debug\testy.exe

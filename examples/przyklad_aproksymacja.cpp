@@ -14,7 +14,7 @@ int main() {
     int l_wezlow = 4;
     int l_podprzedzialow = 100;
 
-    std::vector<double> wsp = aproksymacja(stopien, a, b, f, l_wezlow, l_podprzedzialow);
+    std::vector<double> wsp = aproksymacja(stopien, a, b, f); //, l_wezlow, l_podprzedzialow
 
     std::cout << "\nWspó³czynniki aproksymacji:\n";
     for (size_t i = 0; i < wsp.size(); ++i) {
