@@ -117,6 +117,7 @@
     <ClCompile Include="test_rownania_rozniczkowe.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\include\;$(SolutionDir)biblioteka_numeryczna\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="test_rozniczkowanie.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\biblioteka_numeryczna\biblioteka_numeryczna.vcxproj">

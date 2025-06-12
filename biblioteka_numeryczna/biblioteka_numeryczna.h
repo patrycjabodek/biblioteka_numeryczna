@@ -7,3 +7,4 @@
 #include "metoda_lu.h"
 #include "rownania_rozniczkowe.h"
 #include "rownania_nieliniowe.h"
+#include "rozniczkowanie.h"

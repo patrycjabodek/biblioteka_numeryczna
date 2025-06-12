@@ -10,7 +10,7 @@ double example_function(double x) {
     return std::sin(x); // f(x) = sin(x), f'(x) = cos(x)
 }
 
-int main() {
+int main22() {
     double x = M_PI / 4; // 45 stopni
     double h = 1e-5;
 

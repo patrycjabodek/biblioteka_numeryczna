@@ -137,6 +137,9 @@
     <ClCompile Include="przyklad_aproksymacja.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\;$(SolutionDir)biblioteka_numeryczna\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="przyklad_rownania_nieliniowe.cpp">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\include\;$(SolutionDir)biblioteka_numeryczna\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="przyklad_rownania_rozniczkowe.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\include\;$(SolutionDir)biblioteka_numeryczna\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
