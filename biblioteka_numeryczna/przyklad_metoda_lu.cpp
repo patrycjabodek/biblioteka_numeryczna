@@ -2,7 +2,7 @@
 #include "metoda_lu.h"
 #include <iostream>
 
-int main() {
+int main5() {
     // uk³ad 3 równañ liniowych z 3 niewiadomymi:
     // 1) 1x + 2y + 4z =  3
     // 2) 3x + 8y + 14z = 13

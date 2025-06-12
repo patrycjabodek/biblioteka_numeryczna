@@ -3,7 +3,7 @@
 #include <cmath>
 #include <iomanip>
 
-int main() {
+int main11() {
     auto f = [](double x) {
         return std::exp(x) * std::cos(6 * x) - std::pow(x, 3) + 5 * std::pow(x, 2) - 10;
         };

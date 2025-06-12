@@ -6,3 +6,4 @@
 #include "interpolacja_newton.h"
 #include "metoda_lu.h"
 #include "rownania_rozniczkowe.h"
+#include "rownania_nieliniowe.h"

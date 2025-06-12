@@ -140,6 +140,9 @@
     <ClCompile Include="przyklad_rownania_rozniczkowe.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\include\;$(SolutionDir)biblioteka_numeryczna\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="przyklad_rozniczkowanie.cpp">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)biblioteka_numeryczna\include\;$(SolutionDir)biblioteka_numeryczna\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\biblioteka_numeryczna\biblioteka_numeryczna.vcxproj">

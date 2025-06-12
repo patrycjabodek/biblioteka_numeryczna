@@ -37,6 +37,12 @@
     <ClCompile Include="rownania_rozniczkowe.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="rownania_nieliniowe.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="rozniczkowanie.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gauss.h">
@@ -67,6 +73,12 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="biblioteka_numeryczna.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="rownania_nieliniowe.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="rozniczkowanie.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>

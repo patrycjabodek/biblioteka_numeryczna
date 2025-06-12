@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cmath>
 
-int main() {
+int main8() {
     double T0 = 2021.0;
     double alfa = 1e-12;
     double beta = 0.0;

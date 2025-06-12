@@ -1,18 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\",
+  "WorkspaceRootPath": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\examples\\przyklad_aproksymacja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_rozniczkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:examples\\przyklad_rozniczkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_aproksymacja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:examples\\przyklad_aproksymacja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\aproksymacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rownania_nieliniowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\rownania_nieliniowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rownania_nieliniowe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\rownania_nieliniowe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rozniczkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\rozniczkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rozniczkowanie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\rozniczkowanie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\przyklad_metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:biblioteka_numeryczna\\przyklad_metoda_lu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_rownania_rozniczkowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61BA2695-D0F6-4F89-92EB-BD985CDE9CBE}|examples\\examples.vcxproj|solutionrelative:examples\\przyklad_rownania_rozniczkowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\biblioteka_numeryczna.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\biblioteka_numeryczna.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\aproksymacja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D91D47F2-070E-472F-80B6-52B25B2D8085}|biblioteka_numeryczna\\biblioteka_numeryczna.vcxproj|solutionrelative:biblioteka_numeryczna\\aproksymacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,54 +62,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "przyklad_rozniczkowanie.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_rozniczkowanie.cpp",
+              "RelativeDocumentMoniker": "examples\\przyklad_rozniczkowanie.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_rozniczkowanie.cpp*",
+              "RelativeToolTip": "examples\\przyklad_rozniczkowanie.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T09:24:20.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rozniczkowanie.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rozniczkowanie.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\rozniczkowanie.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rozniczkowanie.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\rozniczkowanie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T09:18:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rozniczkowanie.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rozniczkowanie.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\rozniczkowanie.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rozniczkowanie.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\rozniczkowanie.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T09:18:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "przyklad_metoda_lu.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\przyklad_metoda_lu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T20:58:01.96Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "rownania_nieliniowe.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rownania_nieliniowe.cpp",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\rownania_nieliniowe.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rownania_nieliniowe.cpp",
+              "RelativeToolTip": "biblioteka_numeryczna\\rownania_nieliniowe.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T08:56:48.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "przyklad_aproksymacja.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_aproksymacja.cpp",
+              "RelativeDocumentMoniker": "examples\\przyklad_aproksymacja.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_aproksymacja.cpp*",
+              "RelativeToolTip": "examples\\przyklad_aproksymacja.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T14:38:20.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rownania_nieliniowe.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rownania_nieliniowe.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\rownania_nieliniowe.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\rownania_nieliniowe.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\rownania_nieliniowe.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T08:58:13.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "przyklad_rownania_rozniczkowe.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_rownania_rozniczkowe.cpp",
+              "RelativeDocumentMoniker": "examples\\przyklad_rownania_rozniczkowe.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\examples\\przyklad_rownania_rozniczkowe.cpp",
+              "RelativeToolTip": "examples\\przyklad_rownania_rozniczkowe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T20:58:06.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "biblioteka_numeryczna.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\biblioteka_numeryczna.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\biblioteka_numeryczna.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\biblioteka_numeryczna.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\biblioteka_numeryczna.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T15:21:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\framework.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\framework.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\framework.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T15:22:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\pch.h",
+              "RelativeDocumentMoniker": "biblioteka_numeryczna\\pch.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\pch.h",
+              "RelativeToolTip": "biblioteka_numeryczna\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T15:23:00.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "aproksymacja.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.cpp",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.cpp",
               "RelativeDocumentMoniker": "biblioteka_numeryczna\\aproksymacja.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.cpp",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.cpp",
               "RelativeToolTip": "biblioteka_numeryczna\\aproksymacja.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-11T14:38:25.649Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "aproksymacja.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.h",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.h",
               "RelativeDocumentMoniker": "biblioteka_numeryczna\\aproksymacja.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.h",
+              "ToolTip": "C:\\Users\\patry\\Documents\\projekty\\biblioteka_numeryczna\\biblioteka_numeryczna\\aproksymacja.h",
               "RelativeToolTip": "biblioteka_numeryczna\\aproksymacja.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T14:38:55.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "przyklad_aproksymacja.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\examples\\przyklad_aproksymacja.cpp",
-              "RelativeDocumentMoniker": "examples\\przyklad_aproksymacja.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Metody Numeryczne\\biblioteka\\biblioteka_numeryczna\\examples\\przyklad_aproksymacja.cpp",
-              "RelativeToolTip": "examples\\przyklad_aproksymacja.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T14:38:20.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:38:55.755Z"
             }
           ]
         }
